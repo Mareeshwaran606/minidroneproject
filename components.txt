@@ -1,0 +1,10 @@
+Main Connections
+
+
+Component-------------->	Connected To
+Li-Po Battery---------->	Flight Controller
+Flight Controller------>	4 Motors
+Motors----------------->	Propellers
+Remote Controller------>	Receiver
+Receiver--------------->	Flight Controller
+LEDs------------------->	Flight Controller
